@@ -5,7 +5,7 @@
 
 - 🔭 I'm interested in **Cybsecurity and Video Games**
 
-- 📫 How to reach me **luis.enzo113@gmail.com**
+- 📫 How to reach me **enzo.luis@epitech.eu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
