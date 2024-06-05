@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C language, and other technologies**
 
-- 🔭 I'm interested in **IA and Video Games**
+- 🔭 I'm interested in **Cybsecurity and Video Games**
 
 - 📫 How to reach me **luis.enzo113@gmail.com**
 
